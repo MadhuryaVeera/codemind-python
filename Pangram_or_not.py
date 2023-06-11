@@ -7,9 +7,3 @@ for i in k:
         break
 else:
     print(True)
-   
-        
-        
-        
-        
-  
